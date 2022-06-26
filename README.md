@@ -52,6 +52,7 @@
 <br /> ✔ Contentful api, Restful api, GraphQL, Apollo.
 <br /> ✔ Python, Django Flux: 6 months
 <br /> ✔ TailwindCSS, Animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS: 10 years
+<br /> ✔ MongoDB, PostgreSQL, MySQL, MariaDB, SQLite, Cloud Database<br/>
 <br /> ✔ Git, Github, Gitlab, Bitbucket: 10 years
 <br /> ✔ Docker, AWS: 3 years
 
