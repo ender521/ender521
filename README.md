@@ -1,10 +1,10 @@
 <h3 font-weight="bold">Who I Am</h3>
 
-- 👋 Hello, I’m a passionate fullstack web & blockchain developer.
+- 👋 Hello, I’m a passionate fullstack web developer.
 - 👀 I’m interested in and learning the recent web development technologies.
 - 💞️ I’m looking to collaborate on a full-time remote project for a long-term.
 - 📫 I can work and communicate with you on any timezone you would need me, full-time(24/7).
-- 📫 Feel free to reach me at dev.bestsolution5@gmail.com.
+- 📫 Feel free to reach me at enderimen521@gmail.com.
 
 <h3 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h3>
 
